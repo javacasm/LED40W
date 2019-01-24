@@ -17,3 +17,7 @@ Control de un LED COB de 50W (220v) con Arduino
 * Relés
 * NodeMCU
 * Ventilador de PC
+
+
+[Proyecto similar](https://www.instructables.com/id/Portable-Indoor-Light-With-100W-LED-Chip/?utm_source=newsletter&utm_medium=email)
+
